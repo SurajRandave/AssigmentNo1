@@ -1,0 +1,20 @@
+//Write name,hobbies,favorite movie
+public class info {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Name : Suraj Shivaji Randave");
+		System.out.println("Hobbies : Playing Games");
+		System.out.println("Favorite Movie :- Subhedar");
+
+	}
+
+}
+
+Output:-
+Name : Suraj Shivaji Randave
+Hobbies : Playing Games
+Favorite Movie :- Subhedar
+
+
+
