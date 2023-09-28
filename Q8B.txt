@@ -1,0 +1,29 @@
+
+public class Q8B_Java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Even Numbers");
+		int i=0;
+		while(i<=10);
+		{
+			if(i%2 ==0)
+			{
+				System.out.println(i);
+			}
+			i++;
+		}
+		
+
+	}
+
+}
+
+Output:-
+Even Number
+0
+2
+4
+6
+8
+10

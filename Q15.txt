@@ -1,0 +1,44 @@
+
+public class Q15_Java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int[] arr= {50,80,20,10,60};
+		char[] cha= {'Q', 'U' ,'W' ,'V' ,'K'};
+		String[] Str = {"Suraj"};
+		
+		System.out.println("Integer Array Initialization :");
+		for(int n1 : arr)
+		{
+			System.out.println(n1);
+		}
+		System.out.println("String Array Initialization :");
+		for(String str1 : Str)
+		{
+			System.out.println(Str);
+		}
+		System.out.println("Character Array Initialization :");
+		for(char cha1 : cha)
+		{
+			System.out.println(cha);
+		}
+	}
+
+}
+
+
+Output:-
+Integer Array Initialization :
+50
+80
+20
+10
+60
+String Array Initialization :
+Suraj
+Character Array Initialization :
+Q
+U
+W
+V
+K

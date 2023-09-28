@@ -1,0 +1,28 @@
+//Print 1 to 10 odd number by using do - while loop
+public class Q9c_java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Odd Numbers");
+		int i=0;
+		do
+		{
+			if(i % 2 !=0)
+			{
+				System.out.println(i);
+			}
+			i++;
+		}
+		while(i <=10);
+	}
+
+}
+
+
+Output:-
+Odd number
+1
+3
+5
+7
+9

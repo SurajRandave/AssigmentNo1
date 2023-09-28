@@ -1,0 +1,24 @@
+//  Java program to find areaa of preimeter of rectangle
+public class Q11_A_Java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		int length= 4;
+		int breadth = 8;
+		int perimeter , area;
+		
+		area=length*breadth;
+		perimeter=2*length+breadth;
+		
+		System.out.println("Area of rectangle woithout using mthod:"+area);
+		System.out.println("Perimeter of rectangle without using method :" +perimeter);
+		
+	}
+
+}
+
+
+Output:-
+Area of rectangle woithout using mthod:32
+Perimeter of rectangle without using method :16

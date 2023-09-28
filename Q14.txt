@@ -1,0 +1,30 @@
+
+public class Q14_java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Original Array is :");
+		int[] arr= {5,8,2,1,6};
+		for(int arr1 : arr)
+		{
+			System.out.println("Reverse Order Array Is :");
+			
+		}
+		int temp;
+		for(int i=arr.length ; i>=0 ; i--)
+		{
+			temp = i;
+			System.out.print(temp);
+		}
+	}
+
+}
+
+Output:-
+Original Array is :
+Reverse Order Array Is :
+Reverse Order Array Is :
+Reverse Order Array Is :
+Reverse Order Array Is :
+Reverse Order Array Is :
+543210

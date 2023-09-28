@@ -1,0 +1,24 @@
+
+public class Q13_A_Java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a=10;
+		int b=100;
+		
+		System.out.println("Sum of a + b is :"+(a+b));
+		System.out.println("Difference of a - b is :"+(a-b));
+		System.out.println("Product of a*b :" +(a*b));
+		System.out.println("Quotinet of a / b is :" +(a/b));
+		System.out.println("Reminder of a % b is :"+(a%b));
+	}
+
+}
+
+
+Output:-
+Sum of a + b is :110
+Difference of a - b is :-90
+Product of a*b :1000
+Quotinet of a / b is :0
+Reminder of a % b is :10

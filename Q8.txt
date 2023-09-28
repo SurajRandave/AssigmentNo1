@@ -1,0 +1,27 @@
+
+public class Q8_Java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Even Number");
+		for(int i=0; i<=10; i++)
+		{
+			if(i % 2 == 0)
+			{
+				System.out.println(i);
+			}
+		}
+
+	}
+
+}
+
+
+Output:-
+Even Number
+0
+2
+4
+6
+8
+10

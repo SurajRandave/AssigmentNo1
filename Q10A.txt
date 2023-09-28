@@ -1,0 +1,24 @@
+
+// Java program to find area and circumference of circle without using method
+public class Q10_A_Java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double area, circumference;
+		double radius=4;
+		double PI = 3.14;
+		
+		area=3.24*radius*radius;
+		circumference = 2*3.14*radius;
+		
+		System.out.println("Area of circle :" +area);
+		System.out.println("Circumference of circle without using the method:"+circumference);
+		
+
+	}
+
+}
+
+OutPut:-
+Area of circle :51.84
+Circumference of circle without using the method:25.12
