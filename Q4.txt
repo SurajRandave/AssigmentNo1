@@ -1,0 +1,18 @@
+//Sum of float Number
+public class Q4_Java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		float N =1055;
+		float M=14;
+		
+
+	System.out.println("Sum of Float :" +(N+M));	
+				
+
+	}
+
+}
+
+Output:-
+Sum of Float :1069.0

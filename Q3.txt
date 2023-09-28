@@ -1,0 +1,20 @@
+//Sum ofinteger by using variable
+public class Q3_Java_Ass
+ {
+
+	public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+		int A = '5';
+		int B = '7';
+		int C = '2';
+		int D = '9';
+		int E = '6';
+		System.out.println("Sum of INT :"+(A+B+C+D+E));
+
+	}
+
+}
+
+Output:-
+Sum of INT :269

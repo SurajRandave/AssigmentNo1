@@ -1,0 +1,22 @@
+//Sum of double num
+		public class Q5_Java_Ass {
+		      
+		    public static void main(String[] args) {
+
+			double num1 = 15.0;
+			double num2 = 16.0;
+				
+			System.out.println("Difference between double variable is : "+(num1 - num2));
+				
+			}
+		
+
+
+	}
+
+Output:-
+  Difference between double variable is : -1.0
+
+
+
+
