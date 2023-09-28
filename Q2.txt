@@ -1,0 +1,14 @@
+//Sum of 5 int 
+
+public class Q2_Java_Ass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Sum of int is :" +(5+50+500+5000+50000));
+
+	}
+
+}
+
+output:-
+Sum of int is :55555
